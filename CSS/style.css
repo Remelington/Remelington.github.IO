@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+}
+
+.trida {
+    background-color: red;
+    text-align: center;
+    color: orange;
+    padding: 50px 0; 
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom: 10px solid black;
+}
+
+.wrapper{
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+}
+
+.img-text{
+    background-color: red;
+    width: 400px;
+    display: block;
+    align-items: center;                    
+}
+
+.film.ratings, img{
+display: inline-block;
+}
